@@ -1,6 +1,6 @@
-# sedo
+# Sedo
 SEcurity DOcs (SEDO)
 
-# made with ❤️ ADW development
+# Made with ❤️ ADW development
 
-its better to be secure then to lose a member -T_cat9000_2
+Its better to be secure then to lose a member -T_cat9000_2
